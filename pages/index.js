@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 
+// on each page data
 const pageSize = 10;
 
 function HomePage() {
